@@ -1,0 +1,6 @@
+langchain_core 
+langchain-community
+sse_starlette
+pypdf
+faiss-cpu
+sentence-transformers
